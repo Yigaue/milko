@@ -1,0 +1,9 @@
+header {
+  background: pink;
+  padding: 2em;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
